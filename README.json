@@ -1,0 +1,226 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T02:34:20Z",
+            "owner": "siddharthvaddem",
+            "repo": "openscreen",
+            "stars": 39885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recordly",
+          "description": "Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:56:55Z",
+            "owner": "webadderallorg",
+            "repo": "Recordly",
+            "stars": 20928
+          }
+        }
+      ],
+      "title": "March 31, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TypeStrong/typedoc",
+          "description": "Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T01:33:41Z",
+            "owner": "TypeStrong",
+            "repo": "typedoc",
+            "stars": 8441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typedoc2md/typedoc-plugin-markdown",
+          "description": "A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T20:37:58Z",
+            "owner": "typedoc2md",
+            "repo": "typedoc-plugin-markdown",
+            "stars": 820
+          }
+        }
+      ],
+      "title": "February 22, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qwibitai/nanoclaw",
+          "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:07:10Z",
+            "owner": "nanocoai",
+            "repo": "nanoclaw",
+            "stars": 30510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visual-json",
+          "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T18:53:49Z",
+            "owner": "vercel-labs",
+            "repo": "visual-json",
+            "stars": 915
+          }
+        }
+      ],
+      "title": "February 20, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "blackboardsh/electrobun",
+          "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:49:14Z",
+            "owner": "blackboardsh",
+            "repo": "electrobun",
+            "stars": 12663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blackboardsh/goldfishdb",
+          "description": "A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-07T20:23:27Z",
+            "owner": "blackboardsh",
+            "repo": "goldfishdb",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "February 18, 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webextension-toolbox/webextension-toolbox: Small CLI toolbox for cross-browser WebExtension development",
+          "description": "Small CLI toolbox for cross-browser WebExtension development - webextension-toolbox/webextension-toolbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:43:36Z",
+            "owner": "webextension-toolbox",
+            "repo": "webextension-toolbox",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extend-chrome/js-react-boilerplate: Chrome extension boilerplate with JavaScript and React",
+          "description": "Chrome extension boilerplate with JavaScript and React - extend-chrome/js-react-boilerplate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-13T20:37:05Z",
+            "owner": "extend-chrome",
+            "repo": "js-react-boilerplate",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "January 14, 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bash-guide",
+          "description": "A guide to learn bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T14:14:10Z",
+            "owner": "Idnan",
+            "repo": "bash-guide",
+            "stars": 12368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mathiasbynens/emoji-regex",
+          "description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-13T08:13:29Z",
+            "owner": "mathiasbynens",
+            "repo": "emoji-regex",
+            "stars": 1909
+          }
+        }
+      ],
+      "title": "April 11, 2020"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Connect"
+    },
+    {
+      "description": "Me (Ahmad Awais) and my incredible wife (Maedah Batool) are two engineers who fell in love with open source and then with each other. You can read more about me here. If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.\n\n",
+      "items": [],
+      "title": "Sponsor"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:32:18.829Z",
+    "original_repository": "ahmadawais/awesome-random-stuff",
+    "original_repository_sha": "5c9b09a4dce5392466283824330955ef84b2bed7",
+    "enhanced_repository": "enhansome/enhansome-random-stuff",
+    "enhanced_repository_description": null,
+    "title": "Awesome Random Stuff with stars"
+  }
+}
