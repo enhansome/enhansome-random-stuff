@@ -32,7 +32,7 @@
 ### March 31, 2026
 
 * [openscreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-* [Recordly](https://github.com/webadderall/Recordly) ⭐ 21,319 | 🐛 251 | 🌐 TypeScript | 📅 2026-08-15 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
+* [Recordly](https://github.com/webadderall/Recordly) ⭐ 21,411 | 🐛 252 | 🌐 TypeScript | 📅 2026-08-15 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
 * [Screen Studio alternatives](https://x.com/heynavtoor/status/2039002555200700908) — Screen Studio alternatives in X thread
 * [screen01](https://screen01.app/) — Free but not open source - professional screen recording for macOS. Automatic zoom, smooth cursor effects, beautiful backgrounds, and cinematic motion. Download now.
 * [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
@@ -57,7 +57,7 @@
 
 * [Lumidot](https://lumidot.zainzafar.net/) — A 3x3 dot-grid loader for React. 36 patterns, 20 colors, under 5KB.
 * [Web Haptic Feedback](https://chanhdai.com/components/haptic) — Trigger haptic feedback on mobile devices.
-* [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) ⭐ 2,198 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-16 — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
+* [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) ⭐ 2,200 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-16 — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
 
 ### February 26, 2026
 
@@ -87,24 +87,24 @@
 
 ### February 20, 2026
 
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,522 | 🐛 899 | 🌐 TypeScript | 📅 2026-08-16 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
-* [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 921 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-08 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,533 | 🐛 896 | 🌐 TypeScript | 📅 2026-08-17 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
+* [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 923 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-08 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
 
 ### February 18, 2026
 
-* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,672 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-16 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
+* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,672 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-17 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
 * [blackboardsh/goldfishdb](https://github.com/blackboardsh/goldfishdb) ⭐ 52 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07 — A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb
 * [Mockdown](https://www.mockdown.design/) — Free browser-based ASCII wireframe editor. Design UI mockups, lo-fi prototypes, and text diagrams with drag-and-drop components — no signup required.
 * [Wiretext](https://wiretext.app/) — Unicode Wireframe Design Tool. A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 
 ### February 17, 2026
 
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 50,558 | 🐛 643 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 50,660 | 🐛 646 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
 * [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
 
 ### February 15, 2026
 
-* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,632 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-22 — A physics based toast notification library for react. - hiaaryan/sileo
+* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,635 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-22 — A physics based toast notification library for react. - hiaaryan/sileo
 
 ### February 13, 2026
 
@@ -258,7 +258,7 @@
 ### August 13, 2021
 
 * [Openby.design](https://openby.design/) - Free & Open Source Design Assets Custom crafted free UI design resources, for personal and commercial projects. No attribution is required. #free #foss
-* [christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.](https://github.com/christiannaths/Redacted-Font) ⭐ 5,395 | 🐛 9 | 📅 2021-11-04 - Keep your wireframes free of distracting Lorem Ipsum. - christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.
+* [christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.](https://github.com/christiannaths/Redacted-Font) ⭐ 5,394 | 🐛 9 | 📅 2021-11-04 - Keep your wireframes free of distracting Lorem Ipsum. - christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.
 
 ### July 27, 2021
 
@@ -791,7 +791,7 @@
 
 * [background generator](https://background-generator.com/) - Does what the name says it does.
 * [Bookmarklet Creator](https://mrcoles.com/bookmarklet/) - A simple web based tool to convert JavaScript into a bookmarklet and optionally include external scripts, like jQuery. There is an automated demo included at the bottom of the page.
-* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,029 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-01 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
+* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,030 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-01 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
 * [Home Workout](https://darebee.com/workouts/home-workout.html) - Home Workout is a Darebee workout you can do without even changing into training attire.
 
 ### April 19, 2020
@@ -803,7 +803,7 @@
 
 ### April 18, 2020
 
-* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,029 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-01 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
+* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,030 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-01 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
 
 ### April 16, 2020
 
@@ -821,7 +821,7 @@
 
 ### April 12, 2020
 
-* [cli/cli](https://github.com/cli/cli) ⭐ 45,843 | 🐛 1,064 | 🌐 Go | 📅 2026-08-14 - GitHub’s official command line tool.
+* [cli/cli](https://github.com/cli/cli) ⭐ 45,865 | 🐛 1,071 | 🌐 Go | 📅 2026-08-17 - GitHub’s official command line tool.
 
 ### April 11, 2020
 
@@ -874,4 +874,4 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
