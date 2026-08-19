@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1073433866,
             "language": "TypeScript",
             "last_commit": "2026-06-17T02:34:20Z",
             "owner": "siddharthvaddem",
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1180325220,
             "language": "TypeScript",
             "last_commit": "2026-08-15T07:18:36Z",
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 21487
+            "stars": 21562
           }
         }
       ],
       "title": "March 31, 2026"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20131603,
             "language": "TypeScript",
             "last_commit": "2026-07-13T01:33:41Z",
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8442
+            "stars": 8443
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92450621,
             "language": "TypeScript",
             "last_commit": "2026-07-29T20:37:58Z",
             "owner": "typedoc2md",
@@ -69,7 +73,7 @@
       "title": "February 22, 2026"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:52:03Z",
+            "last_commit": "2026-08-19T12:46:34Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30544
+            "stars": 30550
           }
         },
         {
@@ -92,18 +97,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163024903,
             "language": "TypeScript",
             "last_commit": "2026-04-08T18:53:49Z",
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 923
+            "stars": 924
           }
         }
       ],
       "title": "February 20, 2026"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -112,11 +118,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764419211,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:10:47Z",
+            "last_commit": "2026-08-19T03:36:58Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12676
+            "stars": 12678
           }
         },
         {
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1091854276,
             "language": "TypeScript",
             "last_commit": "2026-06-07T20:23:27Z",
             "owner": "blackboardsh",
@@ -137,7 +145,7 @@
       "title": "February 18, 2026"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -146,6 +154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116293239,
             "language": "TypeScript",
             "last_commit": "2026-08-18T11:43:11Z",
             "owner": "webextension-toolbox",
@@ -160,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323646862,
             "language": "JavaScript",
             "last_commit": "2021-05-13T20:37:05Z",
             "owner": "extend-chrome",
@@ -171,7 +181,7 @@
       "title": "January 14, 2021"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -180,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86894350,
             "language": null,
             "last_commit": "2024-08-11T14:14:10Z",
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12371
+            "stars": 12372
           }
         },
         {
@@ -194,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24557614,
             "language": "JavaScript",
             "last_commit": "2025-10-13T08:13:29Z",
             "owner": "mathiasbynens",
@@ -203,21 +215,12 @@
         }
       ],
       "title": "April 11, 2020"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Connect"
-    },
-    {
-      "description": "Me (Ahmad Awais) and my incredible wife (Maedah Batool) are two engineers who fell in love with open source and then with each other. You can read more about me here. If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.\n\n",
-      "items": [],
-      "title": "Sponsor"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:13:44.333Z",
+    "last_updated": "2026-08-19T12:49:39.754Z",
     "original_repository": "ahmadawais/awesome-random-stuff",
+    "original_repository_id": 254765803,
     "original_repository_sha": "5c9b09a4dce5392466283824330955ef84b2bed7",
     "enhanced_repository": "enhansome/enhansome-random-stuff",
     "enhanced_repository_description": null,
