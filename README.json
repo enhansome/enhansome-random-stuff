@@ -15,7 +15,7 @@
             "last_commit": "2026-06-17T02:34:20Z",
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39885
+            "stars": 39888
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1180325220,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:31:43Z",
+            "last_commit": "2026-08-24T08:20:53Z",
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 22206
+            "stars": 22314
           }
         }
       ],
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:01:57Z",
+            "last_commit": "2026-08-24T11:56:29Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30606
+            "stars": 30609
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-22T20:36:39Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12682
+            "stars": 12690
           }
         },
         {
@@ -143,6 +143,132 @@
         }
       ],
       "title": "February 18, 2026"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jamiepine/voicebox",
+          "description": "The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1141782198,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T00:03:42Z",
+            "owner": "jamiepine",
+            "repo": "voicebox",
+            "stars": 51298
+          }
+        }
+      ],
+      "title": "February 17, 2026"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sileo",
+          "description": "A physics based toast notification library for react. - hiaaryan/sileo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152486918,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T18:25:41Z",
+            "owner": "hiaaryan",
+            "repo": "sileo",
+            "stars": 1656
+          }
+        }
+      ],
+      "title": "February 15, 2026"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "langui",
+          "description": "UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644862510,
+            "language": "HTML",
+            "last_commit": "2024-07-10T03:00:23Z",
+            "owner": "CommandCodeAI",
+            "repo": "langui",
+            "stars": 3144
+          }
+        }
+      ],
+      "title": "June 13, 2023"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.",
+          "description": "Keep your wireframes free of distracting Lorem Ipsum. - christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8069107,
+            "language": null,
+            "last_commit": "2021-11-04T21:24:49Z",
+            "owner": "christiannaths",
+            "repo": "redacted-font",
+            "stars": 5396
+          }
+        }
+      ],
+      "title": "August 13, 2021"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextapps-de/winbox: WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
+          "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source! - nextapps-de/winbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357272600,
+            "language": "JavaScript",
+            "last_commit": "2024-08-15T08:08:46Z",
+            "owner": "nextapps-de",
+            "repo": "winbox",
+            "stars": 6445
+          }
+        }
+      ],
+      "title": "May 9, 2021"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QingWei-Li/notea:",
+          "description": "📒 Self hosted note taking app stored on S3 + Vercel + Netlify.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 338556116,
+            "language": "TypeScript",
+            "last_commit": "2025-11-15T15:32:01Z",
+            "owner": "notea-org",
+            "repo": "notea",
+            "stars": 2146
+          }
+        }
+      ],
+      "title": "May 1, 2021"
     },
     {
       "description": null,
@@ -185,6 +311,132 @@
       "items": [
         {
           "node_type": "item",
+          "title": "edent/SuperTinyIcons",
+          "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos - edent/SuperTinyIcons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88214511,
+            "language": "Python",
+            "last_commit": "2026-05-18T06:50:14Z",
+            "owner": "edent",
+            "repo": "SuperTinyIcons",
+            "stars": 15378
+          }
+        }
+      ],
+      "title": "December 3, 2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bashaus/prevent-widows: Prevent widows from appearing in a string (includes posthtml implementation)",
+          "description": "Prevent widows from appearing in a string (includes posthtml implementation) - bashaus/prevent-widows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132773205,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T13:24:13Z",
+            "owner": "bashaus",
+            "repo": "prevent-widows",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "August 16, 2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "npm registry/authentication",
+          "description": "npm registry authentication documentation. Hard to find otherwise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145766570,
+            "language": null,
+            "last_commit": "2024-06-02T19:19:54Z",
+            "owner": "npm",
+            "repo": "registry",
+            "stars": 496
+          }
+        }
+      ],
+      "title": "August 15, 2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "onderceylan/pwa-asset-generator",
+          "description": "PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201535836,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T09:35:56Z",
+            "owner": "elegantapp",
+            "repo": "pwa-asset-generator",
+            "stars": 3030
+          }
+        }
+      ],
+      "title": "April 20, 2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "onderceylan/pwa-asset-generator",
+          "description": "PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201535836,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T09:35:56Z",
+            "owner": "elegantapp",
+            "repo": "pwa-asset-generator",
+            "stars": 3030
+          }
+        }
+      ],
+      "title": "April 18, 2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cli/cli",
+          "description": "GitHub’s official command line tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 212613049,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:06:42Z",
+            "owner": "cli",
+            "repo": "cli",
+            "stars": 45968
+          }
+        }
+      ],
+      "title": "April 12, 2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "bash-guide",
           "description": "A guide to learn bash.",
           "children": [],
@@ -195,7 +447,7 @@
             "last_commit": "2024-08-11T14:14:10Z",
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12372
+            "stars": 12371
           }
         },
         {
@@ -218,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:13:13.785Z",
+    "last_updated": "2026-08-24T14:25:28.011Z",
     "original_repository": "ahmadawais/awesome-random-stuff",
     "original_repository_id": 254765803,
     "original_repository_sha": "5c9b09a4dce5392466283824330955ef84b2bed7",
