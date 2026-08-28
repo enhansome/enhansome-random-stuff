@@ -15,8 +15,9 @@
             "last_commit": "2026-06-17T02:34:20Z",
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39907
-          }
+            "stars": 39909
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1180325220,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:58:42Z",
+            "last_commit": "2026-08-28T04:24:28Z",
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 22634
-          }
+            "stars": 22683
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "March 31, 2026"
@@ -51,8 +53,9 @@
             "last_commit": "2026-07-13T01:33:41Z",
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8445
-          }
+            "stars": 8447
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "typedoc2md",
             "repo": "typedoc-plugin-markdown",
             "stars": 821
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "February 22, 2026"
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:09:22Z",
+            "last_commit": "2026-08-28T01:12:04Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30627
-          }
+            "stars": 30626
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "vercel-labs",
             "repo": "visual-json",
             "stars": 925
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "February 20, 2026"
@@ -123,8 +129,9 @@
             "last_commit": "2026-08-26T18:33:51Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12701
-          }
+            "stars": 12710
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         },
         {
           "node_type": "item",
@@ -138,8 +145,9 @@
             "last_commit": "2026-06-07T20:23:27Z",
             "owner": "blackboardsh",
             "repo": "goldfishdb",
-            "stars": 53
-          }
+            "stars": 54
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "February 18, 2026"
@@ -159,8 +167,9 @@
             "last_commit": "2026-08-09T00:03:42Z",
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 51596
-          }
+            "stars": 51664
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "February 17, 2026"
@@ -180,8 +189,9 @@
             "last_commit": "2026-02-22T18:25:41Z",
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1657
-          }
+            "stars": 1660
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "February 15, 2026"
@@ -202,7 +212,8 @@
             "owner": "CommandCodeAI",
             "repo": "langui",
             "stars": 3144
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "June 13, 2023"
@@ -223,7 +234,8 @@
             "owner": "christiannaths",
             "repo": "redacted-font",
             "stars": 5396
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "August 13, 2021"
@@ -244,7 +256,8 @@
             "owner": "nextapps-de",
             "repo": "winbox",
             "stars": 6447
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "May 9, 2021"
@@ -265,7 +278,8 @@
             "owner": "notea-org",
             "repo": "notea",
             "stars": 2146
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "May 1, 2021"
@@ -286,7 +300,8 @@
             "owner": "webextension-toolbox",
             "repo": "webextension-toolbox",
             "stars": 790
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         },
         {
           "node_type": "item",
@@ -301,7 +316,8 @@
             "owner": "extend-chrome",
             "repo": "js-react-boilerplate",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "January 14, 2021"
@@ -322,7 +338,8 @@
             "owner": "edent",
             "repo": "SuperTinyIcons",
             "stars": 15378
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "December 3, 2020"
@@ -343,7 +360,8 @@
             "owner": "bashaus",
             "repo": "prevent-widows",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "August 16, 2020"
@@ -364,7 +382,8 @@
             "owner": "npm",
             "repo": "registry",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "August 15, 2020"
@@ -385,7 +404,8 @@
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
             "stars": 3030
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "April 20, 2020"
@@ -406,7 +426,8 @@
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
             "stars": 3030
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "April 18, 2020"
@@ -423,11 +444,12 @@
             "archived": false,
             "id": 212613049,
             "language": "Go",
-            "last_commit": "2026-08-27T11:46:55Z",
+            "last_commit": "2026-08-27T22:59:42Z",
             "owner": "cli",
             "repo": "cli",
-            "stars": 46020
-          }
+            "stars": 46031
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "April 12, 2020"
@@ -448,7 +470,8 @@
             "owner": "Idnan",
             "repo": "bash-guide",
             "stars": 12373
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         },
         {
           "node_type": "item",
@@ -463,14 +486,15 @@
             "owner": "mathiasbynens",
             "repo": "emoji-regex",
             "stars": 1909
-          }
+          },
+          "first_seen": "2026-08-28T05:53:06.277Z"
         }
       ],
       "title": "April 11, 2020"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:35.447Z",
+    "last_updated": "2026-08-28T05:53:06.277Z",
     "original_repository_info": {
       "archived": false,
       "id": 254765803,

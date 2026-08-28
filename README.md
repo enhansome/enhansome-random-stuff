@@ -22,7 +22,7 @@
 
 ### April 6, 2026
 
-* [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,625 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-08 — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
+* [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,624 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-08 — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
 * [Developer Icons](https://xandemon.github.io/developer-icons/) — An open-source collection of optimized and customizable SVG icons for popular technologies, frameworks, and tools used by developers. Free, scalable, and easy to use.
 
 ### April 2, 2026
@@ -32,7 +32,7 @@
 ### March 31, 2026
 
 * [openscreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-* [Recordly](https://github.com/webadderall/Recordly) ⭐ 22,634 | 🐛 269 | 🌐 TypeScript | 📅 2026-08-27 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
+* [Recordly](https://github.com/webadderall/Recordly) ⭐ 22,683 | 🐛 271 | 🌐 TypeScript | 📅 2026-08-28 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
 * [Screen Studio alternatives](https://x.com/heynavtoor/status/2039002555200700908) — Screen Studio alternatives in X thread
 * [screen01](https://screen01.app/) — Free but not open source - professional screen recording for macOS. Automatic zoom, smooth cursor effects, beautiful backgrounds, and cinematic motion. Download now.
 * [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
@@ -78,7 +78,7 @@
 
 ### February 22, 2026
 
-* [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) ⭐ 8,445 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
+* [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) ⭐ 8,447 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
 * [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) ⭐ 821 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 — A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown
 
 ### February 21, 2026
@@ -87,24 +87,24 @@
 
 ### February 20, 2026
 
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,627 | 🐛 1,008 | 🌐 TypeScript | 📅 2026-08-26 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,626 | 🐛 1,025 | 🌐 TypeScript | 📅 2026-08-28 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
 * [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 925 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-08 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
 
 ### February 18, 2026
 
-* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,701 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-26 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
-* [blackboardsh/goldfishdb](https://github.com/blackboardsh/goldfishdb) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07 — A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb
+* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,710 | 🐛 99 | 🌐 TypeScript | 📅 2026-08-26 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
+* [blackboardsh/goldfishdb](https://github.com/blackboardsh/goldfishdb) ⭐ 54 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07 — A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb
 * [Mockdown](https://www.mockdown.design/) — Free browser-based ASCII wireframe editor. Design UI mockups, lo-fi prototypes, and text diagrams with drag-and-drop components — no signup required.
 * [Wiretext](https://wiretext.app/) — Unicode Wireframe Design Tool. A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 
 ### February 17, 2026
 
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 51,596 | 🐛 663 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 51,664 | 🐛 663 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
 * [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
 
 ### February 15, 2026
 
-* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,657 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-22 — A physics based toast notification library for react. - hiaaryan/sileo
+* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,660 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-22 — A physics based toast notification library for react. - hiaaryan/sileo
 
 ### February 13, 2026
 
@@ -821,7 +821,7 @@
 
 ### April 12, 2020
 
-* [cli/cli](https://github.com/cli/cli) ⭐ 46,020 | 🐛 1,066 | 🌐 Go | 📅 2026-08-27 - GitHub’s official command line tool.
+* [cli/cli](https://github.com/cli/cli) ⭐ 46,031 | 🐛 1,066 | 🌐 Go | 📅 2026-08-27 - GitHub’s official command line tool.
 
 ### April 11, 2020
 
@@ -874,4 +874,4 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
