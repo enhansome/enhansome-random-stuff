@@ -15,7 +15,7 @@
             "last_commit": "2026-06-17T02:34:20Z",
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39909
+            "stars": 39907
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 1180325220,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:24:28Z",
+            "last_commit": "2026-08-28T07:20:06Z",
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 22683
+            "stars": 22727
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -88,10 +88,10 @@
             "archived": false,
             "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:12:04Z",
+            "last_commit": "2026-08-29T00:32:27Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30626
+            "stars": 30633
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-26T18:33:51Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12710
+            "stars": 12718
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -167,7 +167,7 @@
             "last_commit": "2026-08-09T00:03:42Z",
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 51664
+            "stars": 51731
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -189,7 +189,7 @@
             "last_commit": "2026-02-22T18:25:41Z",
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1660
+            "stars": 1662
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -233,7 +233,7 @@
             "last_commit": "2021-11-04T21:24:49Z",
             "owner": "christiannaths",
             "repo": "redacted-font",
-            "stars": 5396
+            "stars": 5397
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -337,7 +337,7 @@
             "last_commit": "2026-05-18T06:50:14Z",
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15378
+            "stars": 15380
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -444,10 +444,10 @@
             "archived": false,
             "id": 212613049,
             "language": "Go",
-            "last_commit": "2026-08-27T22:59:42Z",
+            "last_commit": "2026-08-28T18:31:44Z",
             "owner": "cli",
             "repo": "cli",
-            "stars": 46031
+            "stars": 46053
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:53:06.277Z",
+    "last_updated": "2026-08-29T03:25:52.785Z",
     "original_repository_info": {
       "archived": false,
       "id": 254765803,
