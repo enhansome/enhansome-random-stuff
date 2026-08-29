@@ -32,7 +32,7 @@
 ### March 31, 2026
 
 * [openscreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-* [Recordly](https://github.com/webadderall/Recordly) ⭐ 22,727 | 🐛 272 | 🌐 TypeScript | 📅 2026-08-28 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
+* [Recordly](https://github.com/webadderall/Recordly) ⭐ 22,734 | 🐛 272 | 🌐 TypeScript | 📅 2026-08-29 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
 * [Screen Studio alternatives](https://x.com/heynavtoor/status/2039002555200700908) — Screen Studio alternatives in X thread
 * [screen01](https://screen01.app/) — Free but not open source - professional screen recording for macOS. Automatic zoom, smooth cursor effects, beautiful backgrounds, and cinematic motion. Download now.
 * [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
@@ -87,7 +87,7 @@
 
 ### February 20, 2026
 
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,633 | 🐛 1,071 | 🌐 TypeScript | 📅 2026-08-29 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,634 | 🐛 1,068 | 🌐 TypeScript | 📅 2026-08-29 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
 * [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 925 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-08 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
 
 ### February 18, 2026
@@ -99,7 +99,7 @@
 
 ### February 17, 2026
 
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 51,731 | 🐛 663 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 51,733 | 🐛 663 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
 * [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
 
 ### February 15, 2026
@@ -821,7 +821,7 @@
 
 ### April 12, 2020
 
-* [cli/cli](https://github.com/cli/cli) ⭐ 46,053 | 🐛 1,064 | 🌐 Go | 📅 2026-08-28 - GitHub’s official command line tool.
+* [cli/cli](https://github.com/cli/cli) ⭐ 46,054 | 🐛 1,063 | 🌐 Go | 📅 2026-08-28 - GitHub’s official command line tool.
 
 ### April 11, 2020
 

@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+            "homepage": null,
             "id": 1073433866,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T02:34:20Z",
+            "open_issues": 49,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39907
+            "stars": 39906,
+            "topics": [
+              "electron",
+              "open-source",
+              "pixijs",
+              "screen-capture",
+              "screen-recorder"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -26,12 +37,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
+            "homepage": "https://recordly.dev",
             "id": 1180325220,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T07:20:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:57:20Z",
+            "open_issues": 272,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 22727
+            "stars": 22734,
+            "topics": [
+              "electron",
+              "free",
+              "linux",
+              "macos",
+              "open-source",
+              "screen-recorder",
+              "screen-studio",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -48,12 +73,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation generator for TypeScript projects.",
+            "homepage": "https://typedoc.org",
             "id": 20131603,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T01:33:41Z",
+            "open_issues": 18,
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8447
+            "stars": 8447,
+            "topics": [
+              "documentation",
+              "generator",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -64,12 +98,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.",
+            "homepage": "https://typedoc-plugin-markdown.org",
             "id": 92450621,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:30:32Z",
+            "open_issues": 2,
             "owner": "typedoc2md",
             "repo": "typedoc-plugin-markdown",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "documentation",
+              "generator",
+              "markdown",
+              "typedoc",
+              "typedoc-plugin",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -86,12 +132,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+            "homepage": "https://nanoclaw.dev",
             "id": 1146738089,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:32:27Z",
+            "open_issues": 1068,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30633
+            "stars": 30634,
+            "topics": [
+              "ai-agents",
+              "ai-assistant",
+              "claude-code",
+              "claude-skills",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -102,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+            "homepage": "https://visual-json.dev",
             "id": 1163024903,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-08T18:53:49Z",
+            "open_issues": 7,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 925
+            "stars": 925,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -124,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+            "homepage": "http://blackboard.sh/electrobun",
             "id": 764419211,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:33:51Z",
+            "open_issues": 100,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12718
+            "stars": 12718,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -140,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight in-memory document database with TypeScript-first design and atomic writes.",
+            "homepage": "https://blackboard.sh/opensource/",
             "id": 1091854276,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-07T20:23:27Z",
+            "open_issues": 0,
             "owner": "blackboardsh",
             "repo": "goldfishdb",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -162,12 +234,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source AI voice studio. Clone, dictate, create.",
+            "homepage": "https://voicebox.sh",
             "id": 1141782198,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T00:03:42Z",
+            "open_issues": 663,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 51731
+            "stars": 51733,
+            "topics": [
+              "ai",
+              "cuda",
+              "mlx",
+              "qwen3-tts",
+              "qwen3-tts-ui",
+              "voice-ai",
+              "voice-clone",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -184,12 +270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated, physics-based toast component for React.",
+            "homepage": "https://sileo.aaryan.design",
             "id": 1152486918,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-22T18:25:41Z",
+            "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1662
+            "stars": 1662,
+            "topics": [
+              "notifications",
+              "react",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -206,12 +301,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.",
+            "homepage": "https://LangUI.dev",
             "id": 644862510,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-07-10T03:00:23Z",
+            "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3144
+            "stars": 3144,
+            "topics": [
+              "chat-ui",
+              "chatgpt",
+              "chatgpt-ui",
+              "gpt",
+              "gpt-3",
+              "gpt-4",
+              "gpt-ui",
+              "lang-chain",
+              "lang-ui"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -228,12 +338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep your wireframes free of distracting Lorem Ipsum.",
+            "homepage": null,
             "id": 8069107,
             "language": null,
+            "license": "OFL-1.1",
             "last_commit": "2021-11-04T21:24:49Z",
+            "open_issues": 9,
             "owner": "christiannaths",
             "repo": "redacted-font",
-            "stars": 5397
+            "stars": 5397,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -250,12 +365,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WinBox is a modern HTML5 window manager for the Web.",
+            "homepage": null,
             "id": 357272600,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-15T08:08:46Z",
+            "open_issues": 27,
             "owner": "nextapps-de",
             "repo": "winbox",
-            "stars": 6447
+            "stars": 6447,
+            "topics": [
+              "box",
+              "desktop",
+              "desktop-app",
+              "desktop-widget",
+              "frame",
+              "popup",
+              "winbox",
+              "window",
+              "window-manager",
+              "windowmanager",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -272,12 +404,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📒 Self hosted note taking app stored on S3",
+            "homepage": null,
             "id": 338556116,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-11-15T15:32:01Z",
+            "open_issues": 56,
             "owner": "notea-org",
             "repo": "notea",
-            "stars": 2146
+            "stars": 2146,
+            "topics": [
+              "docker",
+              "markdown",
+              "minio",
+              "note-taking",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -294,12 +437,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small CLI toolbox for cross-browser WebExtension development",
+            "homepage": "https://npmjs.com/package/@webextension-toolbox/webextension-toolbox",
             "id": 116293239,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T11:43:11Z",
+            "open_issues": 6,
             "owner": "webextension-toolbox",
             "repo": "webextension-toolbox",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "auto",
+              "chrome",
+              "chrome-extension",
+              "cli-toolbox",
+              "edge",
+              "edge-extension",
+              "firefox",
+              "firefox-extension",
+              "opera-extension",
+              "webextension",
+              "webextension-toolbox",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -310,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome extension boilerplate with JavaScript and React",
+            "homepage": null,
             "id": 323646862,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-13T20:37:05Z",
+            "open_issues": 1,
             "owner": "extend-chrome",
             "repo": "js-react-boilerplate",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -332,12 +498,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+            "homepage": "https://edent.github.io/SuperTinyIcons/",
             "id": 88214511,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T06:50:14Z",
+            "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15380
+            "stars": 15380,
+            "topics": [
+              "hacktoberfest",
+              "logo",
+              "social-media",
+              "svg",
+              "svg-icons",
+              "tiny-social-icons"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -354,12 +532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prevent widows from appearing in a string (includes posthtml implementation)",
+            "homepage": null,
             "id": 132773205,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-16T13:24:13Z",
+            "open_issues": 1,
             "owner": "bashaus",
             "repo": "prevent-widows",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -376,12 +559,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "npm registry documentation",
+            "homepage": null,
             "id": 145766570,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-02T19:19:54Z",
+            "open_issues": 7,
             "owner": "npm",
             "repo": "registry",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "docs",
+              "documentation",
+              "npm",
+              "presentations",
+              "registry",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -398,12 +593,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.",
+            "homepage": null,
             "id": 201535836,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-01T09:35:56Z",
+            "open_issues": 51,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3030
+            "stars": 3030,
+            "topics": [
+              "android",
+              "favicon",
+              "favicon-generator",
+              "html-tags",
+              "icon",
+              "icon-sizes",
+              "image-generation",
+              "ios",
+              "launch-image",
+              "manifest",
+              "manifest-specs",
+              "mstile",
+              "progressive-web-app",
+              "progressive-web-apps",
+              "puppeteer",
+              "pwa",
+              "pwa-assets",
+              "splash-screen",
+              "splash-screens"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -420,12 +640,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.",
+            "homepage": null,
             "id": 201535836,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-01T09:35:56Z",
+            "open_issues": 51,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3030
+            "stars": 3030,
+            "topics": [
+              "android",
+              "favicon",
+              "favicon-generator",
+              "html-tags",
+              "icon",
+              "icon-sizes",
+              "image-generation",
+              "ios",
+              "launch-image",
+              "manifest",
+              "manifest-specs",
+              "mstile",
+              "progressive-web-app",
+              "progressive-web-apps",
+              "puppeteer",
+              "pwa",
+              "pwa-assets",
+              "splash-screen",
+              "splash-screens"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -442,12 +687,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub’s official command line tool",
+            "homepage": "https://cli.github.com",
             "id": 212613049,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:31:44Z",
+            "open_issues": 1063,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46053
+            "stars": 46054,
+            "topics": [
+              "cli",
+              "git",
+              "github-api-v4",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -464,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide to learn bash",
+            "homepage": null,
             "id": 86894350,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-11T14:14:10Z",
+            "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12373
+            "stars": 12373,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         },
@@ -480,12 +740,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+            "homepage": "https://mths.be/emoji-regex",
             "id": 24557614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-13T08:13:29Z",
+            "open_issues": 12,
             "owner": "mathiasbynens",
             "repo": "emoji-regex",
-            "stars": 1909
+            "stars": 1909,
+            "topics": [
+              "emoji",
+              "regex",
+              "regexp",
+              "regular-expression",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
         }
@@ -494,15 +765,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:25:52.785Z",
+    "last_updated": "2026-08-29T04:45:12.441Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
+      "homepage": "https://x.com/MrAhmadAwais",
       "id": 254765803,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-23T07:59:55Z",
+      "open_issues": 0,
       "owner": "ahmadawais",
       "repo": "awesome-random-stuff",
-      "stars": 445
+      "stars": 445,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ideas"
+      ]
     },
     "original_repository_sha": "5c9b09a4dce5392466283824330955ef84b2bed7",
     "enhanced_repository": "enhansome/enhansome-random-stuff",
