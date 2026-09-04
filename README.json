@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39913,
+            "stars": 39908,
             "topics": [
               "electron",
               "open-source",
@@ -42,11 +42,11 @@
             "id": 1180325220,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T03:23:59Z",
-            "open_issues": 284,
+            "last_commit": "2026-09-04T20:00:41Z",
+            "open_issues": 289,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 23236,
+            "stars": 23304,
             "topics": [
               "electron",
               "free",
@@ -79,7 +79,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-13T01:33:41Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "TypeStrong",
             "repo": "typedoc",
             "stars": 8450,
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T22:12:15Z",
-            "open_issues": 1085,
+            "last_commit": "2026-09-04T22:43:28Z",
+            "open_issues": 1090,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30695,
+            "stars": 30701,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -191,11 +191,11 @@
             "id": 764419211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:10:05Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-04T17:38:19Z",
+            "open_issues": 107,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12752,
+            "stars": 12757,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -243,7 +243,7 @@
             "open_issues": 671,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 52242,
+            "stars": 52325,
             "topics": [
               "ai",
               "cuda",
@@ -347,7 +347,7 @@
             "open_issues": 9,
             "owner": "christiannaths",
             "repo": "redacted-font",
-            "stars": 5397,
+            "stars": 5396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -374,7 +374,7 @@
             "open_issues": 27,
             "owner": "nextapps-de",
             "repo": "winbox",
-            "stars": 6448,
+            "stars": 6449,
             "topics": [
               "box",
               "desktop",
@@ -507,7 +507,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15383,
+            "stars": 15384,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T20:49:13Z",
-            "open_issues": 1069,
+            "last_commit": "2026-09-04T21:50:52Z",
+            "open_issues": 1079,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46129,
+            "stars": 46151,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12375,
+            "stars": 12377,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:42:43.094Z",
+    "last_updated": "2026-09-04T23:35:17.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
