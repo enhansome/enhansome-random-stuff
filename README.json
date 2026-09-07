@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39914,
+            "stars": 39915,
             "topics": [
               "electron",
               "open-source",
@@ -43,10 +43,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T10:08:42Z",
-            "open_issues": 293,
+            "open_issues": 296,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 23751,
+            "stars": 24865,
             "topics": [
               "electron",
               "free",
@@ -82,7 +82,7 @@
             "open_issues": 19,
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8450,
+            "stars": 8453,
             "topics": [
               "documentation",
               "generator",
@@ -103,8 +103,8 @@
             "id": 92450621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T15:30:32Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-07T19:33:41Z",
+            "open_issues": 4,
             "owner": "typedoc2md",
             "repo": "typedoc-plugin-markdown",
             "stars": 821,
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T22:31:35Z",
-            "open_issues": 1090,
+            "last_commit": "2026-09-07T23:01:54Z",
+            "open_issues": 1095,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30711,
+            "stars": 30716,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -192,10 +192,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-06T18:52:29Z",
-            "open_issues": 109,
+            "open_issues": 111,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12760,
+            "stars": 12763,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-09T00:03:42Z",
-            "open_issues": 675,
+            "open_issues": 678,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 52432,
+            "stars": 52541,
             "topics": [
               "ai",
               "cuda",
@@ -347,7 +347,7 @@
             "open_issues": 9,
             "owner": "christiannaths",
             "repo": "redacted-font",
-            "stars": 5396,
+            "stars": 5395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -374,7 +374,7 @@
             "open_issues": 27,
             "owner": "nextapps-de",
             "repo": "winbox",
-            "stars": 6448,
+            "stars": 6449,
             "topics": [
               "box",
               "desktop",
@@ -507,7 +507,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15384,
+            "stars": 15387,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T13:53:30Z",
-            "open_issues": 1078,
+            "last_commit": "2026-09-07T14:03:29Z",
+            "open_issues": 1085,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46175,
+            "stars": 46190,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12377,
+            "stars": 12376,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:22:00.576Z",
+    "last_updated": "2026-09-07T23:52:20.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
