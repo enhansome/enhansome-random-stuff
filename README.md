@@ -22,7 +22,7 @@
 
 ### April 6, 2026
 
-* [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,652 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-08 — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
+* [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,653 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-08 — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
 * [Developer Icons](https://xandemon.github.io/developer-icons/) — An open-source collection of optimized and customizable SVG icons for popular technologies, frameworks, and tools used by developers. Free, scalable, and easy to use.
 
 ### April 2, 2026
@@ -32,7 +32,7 @@
 ### March 31, 2026
 
 * [openscreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-* [Recordly](https://github.com/webadderall/Recordly) ⭐ 30,033 | 🐛 385 | 🌐 TypeScript | 📅 2026-09-20 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
+* [Recordly](https://github.com/webadderall/Recordly) ⭐ 30,343 | 🐛 387 | 🌐 TypeScript | 📅 2026-09-21 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
 * [Screen Studio alternatives](https://x.com/heynavtoor/status/2039002555200700908) — Screen Studio alternatives in X thread
 * [screen01](https://screen01.app/) — Free but not open source - professional screen recording for macOS. Automatic zoom, smooth cursor effects, beautiful backgrounds, and cinematic motion. Download now.
 * [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
@@ -57,7 +57,7 @@
 
 * [Lumidot](https://lumidot.zainzafar.net/) — A 3x3 dot-grid loader for React. 36 patterns, 20 colors, under 5KB.
 * [Web Haptic Feedback](https://chanhdai.com/components/haptic) — Trigger haptic feedback on mobile devices.
-* [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) ⭐ 2,281 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-20 — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
+* [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) ⭐ 2,282 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-21 — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
 
 ### February 26, 2026
 
@@ -78,7 +78,7 @@
 
 ### February 22, 2026
 
-* [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) ⭐ 8,454 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-13 — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
+* [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) ⭐ 8,452 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-13 — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
 * [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) ⭐ 822 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-18 — A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown
 
 ### February 21, 2026
@@ -87,24 +87,24 @@
 
 ### February 20, 2026
 
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,808 | 🐛 1,067 | 🌐 TypeScript | 📅 2026-09-19 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 30,818 | 🐛 1,068 | 🌐 TypeScript | 📅 2026-09-19 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
 * [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 945 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-16 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
 
 ### February 18, 2026
 
-* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,798 | 🐛 119 | 🌐 TypeScript | 📅 2026-09-17 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
+* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,803 | 🐛 119 | 🌐 TypeScript | 📅 2026-09-17 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
 * [blackboardsh/goldfishdb](https://github.com/blackboardsh/goldfishdb) ⭐ 55 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07 — A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb
 * [Mockdown](https://www.mockdown.design/) — Free browser-based ASCII wireframe editor. Design UI mockups, lo-fi prototypes, and text diagrams with drag-and-drop components — no signup required.
 * [Wiretext](https://wiretext.app/) — Unicode Wireframe Design Tool. A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 
 ### February 17, 2026
 
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 55,284 | 🐛 701 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 55,390 | 🐛 703 | 🌐 TypeScript | 📅 2026-08-09 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
 * [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
 
 ### February 15, 2026
 
-* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,675 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-22 — A physics based toast notification library for react. - hiaaryan/sileo
+* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,676 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-22 — A physics based toast notification library for react. - hiaaryan/sileo
 
 ### February 13, 2026
 
@@ -125,7 +125,7 @@
 
 ### June 13, 2023
 
-* [langui](https://github.com/CommandCodeAI/langui) ⭐ 3,145 | 🐛 6 | 🌐 HTML | 📅 2024-07-10 — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
+* [langui](https://github.com/CommandCodeAI/langui) ⭐ 3,144 | 🐛 6 | 🌐 HTML | 📅 2024-07-10 — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
 
 ### Jan 12, 2023
 
@@ -427,7 +427,7 @@
 
 ### January 14, 2021
 
-* [webextension-toolbox/webextension-toolbox: Small CLI toolbox for cross-browser WebExtension development](https://github.com/webextension-toolbox/webextension-toolbox) ⭐ 790 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-10 - Small CLI toolbox for cross-browser WebExtension development - webextension-toolbox/webextension-toolbox
+* [webextension-toolbox/webextension-toolbox: Small CLI toolbox for cross-browser WebExtension development](https://github.com/webextension-toolbox/webextension-toolbox) ⭐ 789 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-10 - Small CLI toolbox for cross-browser WebExtension development - webextension-toolbox/webextension-toolbox
 * [extend-chrome/js-react-boilerplate: Chrome extension boilerplate with JavaScript and React](https://github.com/extend-chrome/js-react-boilerplate) ⭐ 51 | 🐛 1 | 🌐 JavaScript | 📅 2021-05-13 - Chrome extension boilerplate with JavaScript and React - extend-chrome/js-react-boilerplate
 * [Hypercolor - Tailwind CSS Gradient Palette](https://hypercolor.dev/#gradients) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS library.
 * [@extend-chrome](https://github.com/extend-chrome?type=source) - Excellent Chrome extension resources for developers.
@@ -494,7 +494,7 @@
 
 ### December 3, 2020
 
-* [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,399 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos - edent/SuperTinyIcons
+* [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,400 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos - edent/SuperTinyIcons
 * [Storyset](https://storyset.com/) - Download free illustrations to power up your projects.
 
 ### December 2, 2020
@@ -789,7 +789,7 @@
 
 ### April 20, 2020
 
-* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,036 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-20 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
+* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,035 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-21 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
 * [background generator](https://background-generator.com/) - Does what the name says it does.
 * [Bookmarklet Creator](https://mrcoles.com/bookmarklet/) - A simple web based tool to convert JavaScript into a bookmarklet and optionally include external scripts, like jQuery. There is an automated demo included at the bottom of the page.
 * [Home Workout](https://darebee.com/workouts/home-workout.html) - Home Workout is a Darebee workout you can do without even changing into training attire.
@@ -803,7 +803,7 @@
 
 ### April 18, 2020
 
-* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,036 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-20 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
+* [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,035 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-21 - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
 
 ### April 16, 2020
 
@@ -821,11 +821,11 @@
 
 ### April 12, 2020
 
-* [cli/cli](https://github.com/cli/cli) ⭐ 46,344 | 🐛 1,088 | 🌐 Go | 📅 2026-09-19 - GitHub’s official command line tool.
+* [cli/cli](https://github.com/cli/cli) ⭐ 46,361 | 🐛 1,089 | 🌐 Go | 📅 2026-09-21 - GitHub’s official command line tool.
 
 ### April 11, 2020
 
-* [bash-guide](https://github.com/Idnan/bash-guide) ⭐ 12,381 | 🐛 27 | 📅 2024-08-11 - A guide to learn bash.
+* [bash-guide](https://github.com/Idnan/bash-guide) ⭐ 12,380 | 🐛 27 | 📅 2024-08-11 - A guide to learn bash.
 * [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) ⭐ 1,913 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-15 - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
 * [table-magic](https://stevecat.net/table-magic/#) - Generate markdown tables and more.
 * [Product School](https://www.productschool.com/learn-from-home/?ref=producthunt) - Free online resources for product managers.
@@ -874,4 +874,4 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
