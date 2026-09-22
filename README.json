@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39961,
+            "stars": 39960,
             "topics": [
               "electron",
               "open-source",
@@ -42,11 +42,11 @@
             "id": 1180325220,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T11:29:32Z",
-            "open_issues": 387,
+            "last_commit": "2026-09-22T11:14:20Z",
+            "open_issues": 391,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 30343,
+            "stars": 30762,
             "topics": [
               "electron",
               "free",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T16:32:06Z",
-            "open_issues": 1068,
+            "last_commit": "2026-09-22T21:55:47Z",
+            "open_issues": 1071,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30818,
+            "stars": 30829,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -195,7 +195,7 @@
             "open_issues": 119,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12803,
+            "stars": 12814,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -243,7 +243,7 @@
             "open_issues": 703,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 55390,
+            "stars": 55468,
             "topics": [
               "ai",
               "cuda",
@@ -279,7 +279,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "notifications",
               "react",
@@ -310,7 +310,7 @@
             "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3144,
+            "stars": 3145,
             "topics": [
               "chat-ui",
               "chatgpt",
@@ -374,7 +374,7 @@
             "open_issues": 27,
             "owner": "nextapps-de",
             "repo": "winbox",
-            "stars": 6452,
+            "stars": 6451,
             "topics": [
               "box",
               "desktop",
@@ -507,7 +507,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15400,
+            "stars": 15402,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -602,7 +602,7 @@
             "open_issues": 52,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3035,
+            "stars": 3036,
             "topics": [
               "android",
               "favicon",
@@ -649,7 +649,7 @@
             "open_issues": 52,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3035,
+            "stars": 3036,
             "topics": [
               "android",
               "favicon",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:03:19Z",
-            "open_issues": 1089,
+            "last_commit": "2026-09-22T16:24:04Z",
+            "open_issues": 1088,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46361,
+            "stars": 46376,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12380,
+            "stars": 12383,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -749,7 +749,7 @@
             "open_issues": 13,
             "owner": "mathiasbynens",
             "repo": "emoji-regex",
-            "stars": 1913,
+            "stars": 1914,
             "topics": [
               "emoji",
               "regex",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:25:55.942Z",
+    "last_updated": "2026-09-22T23:55:34.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
