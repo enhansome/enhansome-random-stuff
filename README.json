@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39967,
+            "stars": 39969,
             "topics": [
               "electron",
               "open-source",
@@ -43,10 +43,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T08:51:57Z",
-            "open_issues": 407,
+            "open_issues": 413,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 31161,
+            "stars": 31273,
             "topics": [
               "electron",
               "free",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T14:19:25Z",
-            "open_issues": 1073,
+            "last_commit": "2026-09-25T19:07:02Z",
+            "open_issues": 1098,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30843,
+            "stars": 30844,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -191,11 +191,11 @@
             "id": 764419211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T21:46:46Z",
+            "last_commit": "2026-09-25T22:14:28Z",
             "open_issues": 121,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12842,
+            "stars": 12850,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-09T00:03:42Z",
-            "open_issues": 703,
+            "open_issues": 705,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 55612,
+            "stars": 55702,
             "topics": [
               "ai",
               "cuda",
@@ -310,7 +310,7 @@
             "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3145,
+            "stars": 3144,
             "topics": [
               "chat-ui",
               "chatgpt",
@@ -470,7 +470,7 @@
           "description": "Chrome extension boilerplate with JavaScript and React - extend-chrome/js-react-boilerplate",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Chrome extension boilerplate with JavaScript and React",
             "homepage": null,
             "id": 323646862,
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T23:51:19Z",
-            "open_issues": 1091,
+            "last_commit": "2026-09-25T07:51:36Z",
+            "open_issues": 1098,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46395,
+            "stars": 46408,
             "topics": [
               "cli",
               "git",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:10:23.539Z",
+    "last_updated": "2026-09-26T00:16:56.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
