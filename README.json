@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39922,
+            "stars": 39927,
             "topics": [
               "electron",
               "open-source",
@@ -43,10 +43,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T09:08:44Z",
-            "open_issues": 489,
+            "open_issues": 493,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 33779,
+            "stars": 33889,
             "topics": [
               "electron",
               "free",
@@ -103,8 +103,8 @@
             "id": 92450621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T22:06:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-15T21:47:08Z",
+            "open_issues": 4,
             "owner": "typedoc2md",
             "repo": "typedoc-plugin-markdown",
             "stars": 821,
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T17:40:52Z",
-            "open_issues": 1048,
+            "last_commit": "2026-10-15T17:24:42Z",
+            "open_issues": 1042,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30947,
+            "stars": 30955,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -191,11 +191,11 @@
             "id": 764419211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T22:17:15Z",
+            "last_commit": "2026-10-15T12:38:35Z",
             "open_issues": 137,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12914,
+            "stars": 12918,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T01:17:58Z",
-            "open_issues": 506,
+            "open_issues": 509,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 57491,
+            "stars": 57596,
             "topics": [
               "ai",
               "cuda",
@@ -279,7 +279,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1690,
+            "stars": 1689,
             "topics": [
               "notifications",
               "react",
@@ -310,7 +310,7 @@
             "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3144,
+            "stars": 3143,
             "topics": [
               "chat-ui",
               "chatgpt",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T20:56:34Z",
-            "open_issues": 1121,
+            "last_commit": "2026-10-15T20:41:18Z",
+            "open_issues": 1101,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46650,
+            "stars": 46654,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12394,
+            "stars": 12395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:12:05.907Z",
+    "last_updated": "2026-10-15T23:58:49.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
@@ -777,7 +777,7 @@
       "open_issues": 1,
       "owner": "ahmadawais",
       "repo": "awesome-random-stuff",
-      "stars": 447,
+      "stars": 446,
       "topics": [
         "awesome",
         "awesome-list",
