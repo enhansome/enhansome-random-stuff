@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39927,
+            "stars": 39926,
             "topics": [
               "electron",
               "open-source",
@@ -42,11 +42,11 @@
             "id": 1180325220,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T09:08:44Z",
-            "open_issues": 493,
+            "last_commit": "2026-10-16T07:34:25Z",
+            "open_issues": 489,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 33889,
+            "stars": 34055,
             "topics": [
               "electron",
               "free",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T17:24:42Z",
-            "open_issues": 1042,
+            "last_commit": "2026-10-16T16:32:00Z",
+            "open_issues": 1008,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30955,
+            "stars": 30960,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -191,11 +191,11 @@
             "id": 764419211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T12:38:35Z",
+            "last_commit": "2026-10-16T21:39:03Z",
             "open_issues": 137,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12918,
+            "stars": 12921,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T01:17:58Z",
-            "open_issues": 509,
+            "open_issues": 511,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 57596,
+            "stars": 57725,
             "topics": [
               "ai",
               "cuda",
@@ -374,7 +374,7 @@
             "open_issues": 27,
             "owner": "nextapps-de",
             "repo": "winbox",
-            "stars": 6452,
+            "stars": 6453,
             "topics": [
               "box",
               "desktop",
@@ -507,7 +507,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15401,
+            "stars": 15400,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -602,7 +602,7 @@
             "open_issues": 53,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3040,
+            "stars": 3041,
             "topics": [
               "android",
               "favicon",
@@ -649,7 +649,7 @@
             "open_issues": 53,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3040,
+            "stars": 3041,
             "topics": [
               "android",
               "favicon",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-15T20:41:18Z",
-            "open_issues": 1101,
+            "last_commit": "2026-10-16T21:43:29Z",
+            "open_issues": 1107,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46654,
+            "stars": 46670,
             "topics": [
               "cli",
               "git",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:58:49.898Z",
+    "last_updated": "2026-10-17T00:04:12.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
