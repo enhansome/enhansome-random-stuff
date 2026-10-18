@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T03:25:14Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39923,
+            "stars": 39927,
             "topics": [
               "electron",
               "open-source",
@@ -43,10 +43,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T07:32:21Z",
-            "open_issues": 488,
+            "open_issues": 489,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 34240,
+            "stars": 34377,
             "topics": [
               "electron",
               "free",
@@ -79,7 +79,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-13T01:33:41Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "TypeStrong",
             "repo": "typedoc",
             "stars": 8451,
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T21:15:08Z",
-            "open_issues": 1013,
+            "last_commit": "2026-10-18T13:44:15Z",
+            "open_issues": 1016,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30960,
+            "stars": 30963,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -168,7 +168,7 @@
             "open_issues": 7,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 951,
+            "stars": 950,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -186,16 +186,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+            "description": "Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.",
             "homepage": "http://blackboard.sh/electrobun",
             "id": 764419211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T19:53:47Z",
-            "open_issues": 137,
+            "last_commit": "2026-10-18T17:50:00Z",
+            "open_issues": 139,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12921,
+            "stars": 12929,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T01:17:58Z",
-            "open_issues": 512,
+            "open_issues": 515,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 57855,
+            "stars": 57943,
             "topics": [
               "ai",
               "cuda",
@@ -347,7 +347,7 @@
             "open_issues": 9,
             "owner": "christiannaths",
             "repo": "redacted-font",
-            "stars": 5396,
+            "stars": 5397,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -507,7 +507,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15401,
+            "stars": 15400,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -693,10 +693,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-16T21:43:29Z",
-            "open_issues": 1110,
+            "open_issues": 1111,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46676,
+            "stars": 46687,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12395,
+            "stars": 12393,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:39:51.063Z",
+    "last_updated": "2026-10-18T23:49:09.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
