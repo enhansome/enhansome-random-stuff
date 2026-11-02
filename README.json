@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 39998,
+            "stars": 40005,
             "topics": [
               "electron",
               "open-source",
@@ -46,7 +46,7 @@
             "open_issues": 508,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 35734,
+            "stars": 35828,
             "topics": [
               "electron",
               "free",
@@ -79,7 +79,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-13T01:33:41Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "TypeStrong",
             "repo": "typedoc",
             "stars": 8453,
@@ -138,10 +138,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T18:23:22Z",
-            "open_issues": 1034,
+            "open_issues": 1035,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31064,
+            "stars": 31070,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -187,15 +187,15 @@
           "repo_info": {
             "archived": false,
             "description": "Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.",
-            "homepage": "http://blackboard.sh/electrobun",
+            "homepage": "http://electrobun.dev",
             "id": 764419211,
             "language": "Zig",
             "license": "MIT",
             "last_commit": "2026-10-30T13:51:09Z",
-            "open_issues": 153,
+            "open_issues": 154,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12992,
+            "stars": 12997,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -243,7 +243,7 @@
             "open_issues": 528,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 59153,
+            "stars": 59211,
             "topics": [
               "ai",
               "cuda",
@@ -279,7 +279,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1800,
+            "stars": 1802,
             "topics": [
               "notifications",
               "react",
@@ -310,7 +310,7 @@
             "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3146,
+            "stars": 3145,
             "topics": [
               "chat-ui",
               "chatgpt",
@@ -507,7 +507,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15405,
+            "stars": 15406,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -537,8 +537,8 @@
             "id": 132773205,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-01T02:47:16Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-01T02:46:04Z",
+            "open_issues": 10,
             "owner": "bashaus",
             "repo": "prevent-widows",
             "stars": 7,
@@ -693,10 +693,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-30T18:24:34Z",
-            "open_issues": 1100,
+            "open_issues": 1101,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46825,
+            "stars": 46840,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12454,
+            "stars": 12456,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:34:34.896Z",
+    "last_updated": "2026-11-02T01:08:29.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
