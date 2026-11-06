@@ -46,7 +46,7 @@
             "open_issues": 511,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 36102,
+            "stars": 36166,
             "topics": [
               "electron",
               "free",
@@ -137,8 +137,8 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:40:14Z",
-            "open_issues": 1037,
+            "last_commit": "2026-11-05T21:35:17Z",
+            "open_issues": 1036,
             "owner": "nanocoai",
             "repo": "nanoclaw",
             "stars": 31086,
@@ -168,7 +168,7 @@
             "open_issues": 6,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 954,
+            "stars": 953,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -192,10 +192,10 @@
             "language": "Zig",
             "license": "MIT",
             "last_commit": "2026-11-05T00:52:56Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 13018,
+            "stars": 13030,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T01:17:58Z",
-            "open_issues": 530,
+            "open_issues": 533,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 59424,
+            "stars": 59481,
             "topics": [
               "ai",
               "cuda",
@@ -279,7 +279,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1807,
+            "stars": 1808,
             "topics": [
               "notifications",
               "react",
@@ -310,7 +310,7 @@
             "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3145,
+            "stars": 3144,
             "topics": [
               "chat-ui",
               "chatgpt",
@@ -507,7 +507,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15407,
+            "stars": 15406,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-03T21:19:44Z",
-            "open_issues": 1110,
+            "last_commit": "2026-11-05T22:36:35Z",
+            "open_issues": 1123,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46875,
+            "stars": 46893,
             "topics": [
               "cli",
               "git",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:54:41.892Z",
+    "last_updated": "2026-11-06T01:56:04.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
@@ -777,7 +777,7 @@
       "open_issues": 1,
       "owner": "ahmadawais",
       "repo": "awesome-random-stuff",
-      "stars": 446,
+      "stars": 445,
       "topics": [
         "awesome",
         "awesome-list",
