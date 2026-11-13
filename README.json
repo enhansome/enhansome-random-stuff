@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 40027,
+            "stars": 40030,
             "topics": [
               "electron",
               "open-source",
@@ -43,10 +43,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-11T19:49:48Z",
-            "open_issues": 518,
+            "open_issues": 519,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 36543,
+            "stars": 36603,
             "topics": [
               "electron",
               "free",
@@ -82,7 +82,7 @@
             "open_issues": 41,
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8456,
+            "stars": 8457,
             "topics": [
               "documentation",
               "generator",
@@ -137,8 +137,8 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T18:36:17Z",
-            "open_issues": 1053,
+            "last_commit": "2026-11-13T00:41:19Z",
+            "open_issues": 1054,
             "owner": "nanocoai",
             "repo": "nanoclaw",
             "stars": 31110,
@@ -168,7 +168,7 @@
             "open_issues": 7,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 956,
+            "stars": 957,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -191,11 +191,11 @@
             "id": 764419211,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-11-12T00:26:47Z",
-            "open_issues": 163,
+            "last_commit": "2026-11-12T22:14:38Z",
+            "open_issues": 164,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 13051,
+            "stars": 13050,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T01:17:58Z",
-            "open_issues": 535,
+            "open_issues": 543,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 60469,
+            "stars": 60528,
             "topics": [
               "ai",
               "cuda",
@@ -279,7 +279,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1820,
+            "stars": 1823,
             "topics": [
               "notifications",
               "react",
@@ -507,7 +507,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15409,
+            "stars": 15410,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:26:42Z",
-            "open_issues": 1134,
+            "last_commit": "2026-11-12T19:03:51Z",
+            "open_issues": 1130,
             "owner": "cli",
             "repo": "cli",
-            "stars": 46972,
+            "stars": 46993,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12465,
+            "stars": 12464,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:37:07.063Z",
+    "last_updated": "2026-11-13T02:17:27.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
