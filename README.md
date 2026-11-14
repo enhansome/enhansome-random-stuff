@@ -22,7 +22,7 @@
 
 ### April 6, 2026
 
-* [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,681 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-08 — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
+* [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,682 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-08 — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
 * [Developer Icons](https://xandemon.github.io/developer-icons/) — An open-source collection of optimized and customizable SVG icons for popular technologies, frameworks, and tools used by developers. Free, scalable, and easy to use.
 
 ### April 2, 2026
@@ -32,7 +32,7 @@
 ### March 31, 2026
 
 * [openscreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-* [Recordly](https://github.com/webadderall/Recordly) ⭐ 36,603 | 🐛 519 | 🌐 TypeScript | 📅 2026-11-11 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
+* [Recordly](https://github.com/webadderall/Recordly) ⭐ 36,660 | 🐛 522 | 🌐 TypeScript | 📅 2026-11-13 — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
 * [Screen Studio alternatives](https://x.com/heynavtoor/status/2039002555200700908) — Screen Studio alternatives in X thread
 * [screen01](https://screen01.app/) — Free but not open source - professional screen recording for macOS. Automatic zoom, smooth cursor effects, beautiful backgrounds, and cinematic motion. Download now.
 * [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
@@ -57,7 +57,7 @@
 
 * [Lumidot](https://lumidot.zainzafar.net/) — A 3x3 dot-grid loader for React. 36 patterns, 20 colors, under 5KB.
 * [Web Haptic Feedback](https://chanhdai.com/components/haptic) — Trigger haptic feedback on mobile devices.
-* [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) ⭐ 2,428 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-12 — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
+* [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) ⭐ 2,428 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-13 — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
 
 ### February 26, 2026
 
@@ -79,7 +79,7 @@
 ### February 22, 2026
 
 * [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) ⭐ 8,457 | 🐛 41 | 🌐 TypeScript | 📅 2026-07-13 — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
-* [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) ⭐ 823 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 — A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown
+* [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) ⭐ 823 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 — A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown
 
 ### February 21, 2026
 
@@ -87,24 +87,24 @@
 
 ### February 20, 2026
 
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 31,110 | 🐛 1,054 | 🌐 TypeScript | 📅 2026-11-13 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
-* [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 957 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-11 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) ⭐ 31,113 | 🐛 1,062 | 🌐 TypeScript | 📅 2026-11-13 — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
+* [visual-json](https://github.com/vercel-labs/visual-json) ⭐ 961 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-11 — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
 
 ### February 18, 2026
 
-* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 13,050 | 🐛 164 | 🌐 Zig | 📅 2026-11-12 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
+* [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) ⭐ 13,055 | 🐛 167 | 🌐 Zig | 📅 2026-11-14 — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
 * [blackboardsh/goldfishdb](https://github.com/blackboardsh/goldfishdb) ⭐ 56 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07 — A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb
 * [Mockdown](https://www.mockdown.design/) — Free browser-based ASCII wireframe editor. Design UI mockups, lo-fi prototypes, and text diagrams with drag-and-drop components — no signup required.
 * [Wiretext](https://wiretext.app/) — Unicode Wireframe Design Tool. A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 
 ### February 17, 2026
 
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 60,528 | 🐛 543 | 🌐 Python | 📅 2026-10-07 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 60,588 | 🐛 543 | 🌐 Python | 📅 2026-10-07 — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
 * [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
 
 ### February 15, 2026
 
-* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,823 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-14 — A physics based toast notification library for react. - hiaaryan/sileo
+* [sileo](https://github.com/hiaaryan/sileo) ⭐ 1,831 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-14 — A physics based toast notification library for react. - hiaaryan/sileo
 
 ### February 13, 2026
 
@@ -821,11 +821,11 @@
 
 ### April 12, 2020
 
-* [cli/cli](https://github.com/cli/cli) ⭐ 46,993 | 🐛 1,130 | 🌐 Go | 📅 2026-11-12 - GitHub’s official command line tool.
+* [cli/cli](https://github.com/cli/cli) ⭐ 47,003 | 🐛 1,136 | 🌐 Go | 📅 2026-11-13 - GitHub’s official command line tool.
 
 ### April 11, 2020
 
-* [bash-guide](https://github.com/Idnan/bash-guide) ⭐ 12,464 | 🐛 27 | 📅 2024-08-11 - A guide to learn bash.
+* [bash-guide](https://github.com/Idnan/bash-guide) ⭐ 12,466 | 🐛 27 | 📅 2024-08-11 - A guide to learn bash.
 * [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) ⭐ 1,909 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-15 - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
 * [table-magic](https://stevecat.net/table-magic/#) - Generate markdown tables and more.
 * [Product School](https://www.productschool.com/learn-from-home/?ref=producthunt) - Free online resources for product managers.
@@ -874,4 +874,4 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
