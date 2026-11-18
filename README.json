@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 40027,
+            "stars": 40030,
             "topics": [
               "electron",
               "open-source",
@@ -42,11 +42,11 @@
             "id": 1180325220,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T01:02:54Z",
-            "open_issues": 517,
+            "last_commit": "2026-11-17T11:12:46Z",
+            "open_issues": 518,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 36944,
+            "stars": 37013,
             "topics": [
               "electron",
               "free",
@@ -103,7 +103,7 @@
             "id": 92450621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T11:33:28Z",
+            "last_commit": "2026-11-18T00:29:05Z",
             "open_issues": 2,
             "owner": "typedoc2md",
             "repo": "typedoc-plugin-markdown",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T02:24:10Z",
-            "open_issues": 1061,
+            "last_commit": "2026-11-18T00:41:33Z",
+            "open_issues": 1063,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31115,
+            "stars": 31119,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -168,7 +168,7 @@
             "open_issues": 8,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 963,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -195,7 +195,7 @@
             "open_issues": 171,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 13072,
+            "stars": 13077,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -243,7 +243,7 @@
             "open_issues": 554,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 60772,
+            "stars": 60842,
             "topics": [
               "ai",
               "cuda",
@@ -279,7 +279,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1837,
+            "stars": 1840,
             "topics": [
               "notifications",
               "react",
@@ -310,7 +310,7 @@
             "open_issues": 6,
             "owner": "CommandCodeAI",
             "repo": "langui",
-            "stars": 3147,
+            "stars": 3146,
             "topics": [
               "chat-ui",
               "chatgpt",
@@ -507,7 +507,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15441,
+            "stars": 15446,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -692,11 +692,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-16T16:39:20Z",
-            "open_issues": 1133,
+            "last_commit": "2026-11-18T00:18:35Z",
+            "open_issues": 1136,
             "owner": "cli",
             "repo": "cli",
-            "stars": 47049,
+            "stars": 47067,
             "topics": [
               "cli",
               "git",
@@ -728,7 +728,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12467,
+            "stars": 12468,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:15:33.153Z",
+    "last_updated": "2026-11-18T03:14:54.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
