@@ -42,11 +42,11 @@
             "id": 1180325220,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-22T01:48:58Z",
-            "open_issues": 306,
+            "last_commit": "2026-11-22T16:01:15Z",
+            "open_issues": 253,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 37200,
+            "stars": 37260,
             "topics": [
               "electron",
               "free",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T20:52:31Z",
-            "open_issues": 1055,
+            "last_commit": "2026-11-23T00:44:07Z",
+            "open_issues": 1061,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31136,
+            "stars": 31144,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -196,8 +196,8 @@
             "id": 764419211,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-11-21T21:44:29Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-22T20:53:47Z",
+            "open_issues": 177,
             "owner": "blackboardsh",
             "repo": "electrobun",
             "stars": 13103,
@@ -245,10 +245,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-21T10:31:13Z",
-            "open_issues": 560,
+            "open_issues": 564,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 61096,
+            "stars": 61157,
             "topics": [
               "ai",
               "cuda",
@@ -512,7 +512,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15444,
+            "stars": 15445,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -573,7 +573,7 @@
             "open_issues": 7,
             "owner": "npm",
             "repo": "registry",
-            "stars": 499,
+            "stars": 500,
             "topics": [
               "docs",
               "documentation",
@@ -698,10 +698,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-20T18:16:28Z",
-            "open_issues": 1140,
+            "open_issues": 1142,
             "owner": "cli",
             "repo": "cli",
-            "stars": 47131,
+            "stars": 47153,
             "topics": [
               "cli",
               "git",
@@ -733,7 +733,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12468,
+            "stars": 12470,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -770,7 +770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:49:35.284Z",
+    "last_updated": "2026-11-23T02:05:34.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
