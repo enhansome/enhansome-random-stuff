@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "siddharthvaddem",
             "repo": "openscreen",
-            "stars": 40032,
+            "stars": 40029,
             "topics": [
               "electron",
               "open-source",
@@ -43,10 +43,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-22T16:01:15Z",
-            "open_issues": 253,
+            "open_issues": 256,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 37260,
+            "stars": 37337,
             "topics": [
               "electron",
               "free",
@@ -82,7 +82,7 @@
             "open_issues": 41,
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8462,
+            "stars": 8466,
             "topics": [
               "documentation",
               "generator",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T00:44:07Z",
-            "open_issues": 1061,
+            "last_commit": "2026-11-24T00:38:11Z",
+            "open_issues": 1068,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31144,
+            "stars": 31150,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -173,7 +173,7 @@
             "open_issues": 8,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -196,11 +196,11 @@
             "id": 764419211,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-11-22T20:53:47Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-23T23:49:32Z",
+            "open_issues": 180,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 13103,
+            "stars": 13105,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -245,10 +245,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-21T10:31:13Z",
-            "open_issues": 564,
+            "open_issues": 568,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 61157,
+            "stars": 61225,
             "topics": [
               "ai",
               "cuda",
@@ -284,7 +284,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1847,
+            "stars": 1849,
             "topics": [
               "notifications",
               "react",
@@ -573,7 +573,7 @@
             "open_issues": 7,
             "owner": "npm",
             "repo": "registry",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "docs",
               "documentation",
@@ -607,7 +607,7 @@
             "open_issues": 53,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3044,
+            "stars": 3043,
             "topics": [
               "android",
               "favicon",
@@ -654,7 +654,7 @@
             "open_issues": 53,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3044,
+            "stars": 3043,
             "topics": [
               "android",
               "favicon",
@@ -697,11 +697,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T18:16:28Z",
+            "last_commit": "2026-11-24T00:05:42Z",
             "open_issues": 1142,
             "owner": "cli",
             "repo": "cli",
-            "stars": 47153,
+            "stars": 47170,
             "topics": [
               "cli",
               "git",
@@ -733,7 +733,7 @@
             "open_issues": 27,
             "owner": "Idnan",
             "repo": "bash-guide",
-            "stars": 12470,
+            "stars": 12468,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -770,7 +770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:05:34.204Z",
+    "last_updated": "2026-11-24T05:41:11.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
