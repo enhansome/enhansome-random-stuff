@@ -42,11 +42,11 @@
             "id": 1180325220,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T16:09:52Z",
-            "open_issues": 265,
+            "last_commit": "2026-11-27T20:04:48Z",
+            "open_issues": 261,
             "owner": "webadderallorg",
             "repo": "Recordly",
-            "stars": 37539,
+            "stars": 37596,
             "topics": [
               "electron",
               "free",
@@ -79,10 +79,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-13T01:33:41Z",
-            "open_issues": 41,
+            "open_issues": 43,
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8463,
+            "stars": 8464,
             "topics": [
               "documentation",
               "generator",
@@ -137,11 +137,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T00:41:19Z",
-            "open_issues": 1062,
+            "last_commit": "2026-11-27T09:31:27Z",
+            "open_issues": 1065,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31170,
+            "stars": 31173,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -173,7 +173,7 @@
             "open_issues": 8,
             "owner": "vercel-labs",
             "repo": "visual-json",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -200,7 +200,7 @@
             "open_issues": 182,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 13116,
+            "stars": 13118,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:06.277Z"
@@ -244,11 +244,11 @@
             "id": 1141782198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T07:07:17Z",
-            "open_issues": 565,
+            "last_commit": "2026-11-27T12:34:25Z",
+            "open_issues": 515,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 61355,
+            "stars": 61417,
             "topics": [
               "ai",
               "cuda",
@@ -284,7 +284,7 @@
             "open_issues": 23,
             "owner": "hiaaryan",
             "repo": "sileo",
-            "stars": 1857,
+            "stars": 1856,
             "topics": [
               "notifications",
               "react",
@@ -697,11 +697,11 @@
             "id": 212613049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T19:38:33Z",
-            "open_issues": 1139,
+            "last_commit": "2026-11-27T12:21:32Z",
+            "open_issues": 1141,
             "owner": "cli",
             "repo": "cli",
-            "stars": 47239,
+            "stars": 47276,
             "topics": [
               "cli",
               "git",
@@ -770,7 +770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:52:58.775Z",
+    "last_updated": "2026-11-28T03:39:03.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A running log of interesting discoveries from the web by Ahmad Awais.",
